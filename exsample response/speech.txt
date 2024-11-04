@@ -1,0 +1,29 @@
+Trading Summary:
+    ----------------
+
+    Total Bought Shares: 81
+    Total Spent: 1518852.258070406
+
+    Total Compliteed Sales: 75
+    Gains from Complited Sales: 1382286.9686498863
+    
+    Total Aborted Sales: 6
+    Abort Threshold: 0.7
+    Threshold Breach: 1
+    Actual Gains from Aborted Sales: 64620.535765486384
+    Probable Gains from Aborted Sales: 197319.37974333586
+    Losses due to Aborted Sales: 132698.84397784946
+
+    Total Sold Shares: 64695.535765486384
+    Total Gains from Sales: 1446907.5044153726
+
+    Shares Remaining on the Market: 0
+    Value of Unsold Shares: 0
+    Last Price: 10553.997145578025
+    Value of Unsold Shares With Last Price: 0.0
+
+    Profit (without unsold shares): -71944.75365503342
+    Profit (with unsold shares): -71944.75365503342
+    Profit (if unsold shares are sold at last day price): -71944.75365503342
+
+    
